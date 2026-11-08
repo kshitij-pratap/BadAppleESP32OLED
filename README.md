@@ -6,7 +6,7 @@ A small Bad Apple!! player built around an ESP32 and a 1.3-inch SH1106 OLED disp
 
 ## Demo
 
-<!-- GIF PLACEHOLDER: Add the project demonstration GIF here once available -->
+![Bad Apple running on ESP32 OLED](assets/bad-apple-demo.gif)
 
 ## How it works
 
